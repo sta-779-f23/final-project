@@ -2,7 +2,7 @@
 title: Title here
 
 author: 
-- name: Author 1
+- name: Lucy D'Agostino McGowan
   affiliation: Department of YYY, University of XXX
   email: abc@def
   
